@@ -1,0 +1,2 @@
+id|university_id|first_name|last_name|middle_name
+3|2|Artyom|Moskovka|Alexandrovich

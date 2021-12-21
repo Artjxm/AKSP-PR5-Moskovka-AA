@@ -1,0 +1,2 @@
+id|university_name|creation_Date
+2|RTU MIREA|null
